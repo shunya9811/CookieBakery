@@ -1,0 +1,63 @@
+body {
+    font-family: National2CompressedWeb,"Helvetica Condensed","Arial Narrow",sans-serif;
+    letter-spacing: .05rem;
+}
+
+.rem1 {
+    font-size: 1rem;
+}
+
+.rem1p2 {
+    font-size: 1.2rem;
+}
+
+.rem1p5 {
+    font-size: 1.5rem;
+}
+
+.rem2 {
+    font-size: 2rem;
+}
+
+.rem3 {
+    font-size: 3rem;
+}
+
+.rem4 {
+    font-size: 4rem;
+}
+
+.main-bg {
+    background-image: url('https://cdn.pixabay.com/photo/2016/05/12/13/35/cookies-1387826__340.jpg');
+    background-size: cover;
+    height: 60vh;
+    background-color:rgba(0,0,0,0.3);
+    background-blend-mode:overlay;
+}
+
+.promo-bg {
+    background-image: url('https://cdn.pixabay.com/photo/2019/03/13/21/16/cookies-4053771__340.jpg');
+    background-size: cover;
+    background-color:rgba(0,0,0,0.3);
+    background-blend-mode:overlay;
+}
+
+.history-bg {
+    background-image: url('https://cdn.pixabay.com/photo/2016/03/27/19/23/cupcakes-1283821__340.jpg');
+    background-size: center;
+    height: 40vh;
+    background-color:rgba(0,0,0,0.3);
+    background-blend-mode:overlay;
+}
+
+.img-fit {
+    object-fit: contain;
+}
+
+.promo-highlight {
+    color: #CBFE43;
+}
+
+a.fab{
+    text-decoration: none;  
+}
